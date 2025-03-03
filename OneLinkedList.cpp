@@ -1,4 +1,3 @@
-составь мне readme файл для моего кода:
 #include <iostream>
 #include <stdexcept>
 #include <cstdint>
